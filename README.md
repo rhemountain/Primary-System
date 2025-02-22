@@ -2,6 +2,8 @@
 
 - Estado del proyecto: En construcción -
 
-Para ejecutar el sistema, debes pone:
+Para ejecutar el sistema, debes poner:
 
 ```npm intall react```
+
+Sistema de registro 2
